@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 from openpyxl import *
 import time
-import random
 
 root = Tk()
 
